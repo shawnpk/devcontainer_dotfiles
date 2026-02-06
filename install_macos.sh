@@ -18,6 +18,6 @@ yadm remote set-url origin git@github.com:shawnpk/dotfiles.git
 brew install lazygit
 
 # Install treesitter
-npm install -g tree-sitter
+# npm install -g tree-sitter # Skipping - not needed for LazyVim
 
 rm -rf dotfiles
